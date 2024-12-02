@@ -1,5 +1,9 @@
 this is training class
 so all what we do is for 
 training purposes. so lets 
-watch and learn carefully
-
+watch and learn carefully.
+Now we add a few lines and 
+see where it leads us. we 
+must make sure we understand 
+this class well before we move 
+to tghe next class/lesson.
